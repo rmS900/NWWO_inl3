@@ -7,4 +7,4 @@ Projekt do nauki Gita i GitHuba w ramach zajć z przedmiotu **Narzędzia wspiera
 -GitHub i GitHub pages
 
 ## Uruchamianie 
-Wystarczy przedlądarka, aby wyświetlić projekt z tego [[linku](https://rms900.github.io/NWWO_inl3/)]().
+Wystarczy przedlądarka, aby wyświetlić projekt z tego [[linku](https://rms900.github.io/NWWO_inl3/)].
